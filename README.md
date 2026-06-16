@@ -80,4 +80,3 @@ Expense added successfully!
 - Learning Python programming.
 #CONCLUSION
 The Expense Tracker project was successfully developed using Python. The application provides a simple method for recording and managing daily expenses. Through this project, concepts such as lists, loops, conditional statements, user input handling, and calculations were implemented effectively. The project serves as a practical example of applying Python programming to solve real-world problems and can be enhanced further with additional features in the future.
-The Expense Tracker project was successfully developed using Python. The application provides a simple method for recording and managing daily expenses. Through this project, concepts such as lists, loops, conditional statements, user input handling, and calculations were implemented eff
